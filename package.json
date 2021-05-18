@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/zyyZYY123123/typescript-for-javascript-developer/issues"
   },
-  "homepage": "https://github.com/zyyZYY123123/typescript-for-javascript-developer#readme"
+  "homepage": "https://github.com/zyyZYY123123/typescript-for-javascript-developer#readme",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
 }
